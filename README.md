@@ -1,3 +1,7 @@
+> **Note**  
+> This fork has been modified to reflect my contribution to a university project on 3D reconstruction using NeRF and VGG-SfM. See [CONTRIBUTION.md](CONTRIBUTION.md) for details.
+
+
 # VGGSfM: Visual Geometry Grounded Deep Structure From Motion
 
 
